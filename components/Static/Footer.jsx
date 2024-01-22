@@ -23,7 +23,7 @@ export default function Footer() {
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
                                         />
-                                        English
+                                        Turkish
                                         <ChevronDownIcon
                                             className="w-5 h-5 ml-2 -mr-1 transform rotate-180 text-violet-200 hover:text-violet-100"
                                             aria-hidden="true"
@@ -34,7 +34,7 @@ export default function Footer() {
                         
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
                                 <Link href="https://top.gg/bot/774043716797071371/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
@@ -49,47 +49,47 @@ export default function Footer() {
                             </div>
                             <div>
                                 <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Invite Bot
+                                    Bot Davet Et
                                 </a>
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Sosyal Medya</p>
                             <div>
-                                <Link href="https://discord.gg/ST89uArTdh">
+                                <Link href="https://discord.gg/PBXJMcEmwN">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/umutxyp/MusicBot">
+                                <Link href="hhttps://www.twitch.tv/vuupee">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> GitHub 
+                                    <i className={`fa-brands fa-github`} /> Twitch 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
+                                <Link href="https://www.instagram.com/vuupee/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube 
+                                    <i className={`fa-brands fa-youtube`} /> İnstagram 
                                     </a>
                                 </Link>
                             </div>
                         </div>
                         <div className="col-span-1">
-                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
+                            <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Önemli</p>
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        Kullanım Şartları
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                        Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
@@ -97,15 +97,15 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; MusicMaker
+                            {new Date().getFullYear()} &copy; Vuupeeland
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Bot Online
+                                    Vuupeeland Yakında
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Nodesty ❤️"}
+                            {"Powered by NsSanctus ❤️"}
                         </p>
                     </div>
                 </div>
