@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">MusicMaker</p>
+                                <p className="font-semibold text-xl text-white">Vuupeeland</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -38,13 +38,13 @@ export default function Footer() {
                             <div>
                                 <Link href="https://top.gg/bot/774043716797071371/vote">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Vote Bot
+                                        Botu Oyla
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/ZcDprCrFTn" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                <a href="https://discord.gg/PBXJMcEmwN" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Sunucusu
                                 </a>
                             </div>
                             <div>
