@@ -44,11 +44,11 @@ const Header = ({ $, NavItems }) => {
     const { theme, setTheme } = useTheme();
 
     const colorsThemes = [
-        { id: 'Vuupeeland', color: 'violet', label: 'Violet' },
-        { id: 'Gökyüzü', color: 'blue', label: 'Sky' },
-        { id: 'Zümrüt', color: 'emerald', label: 'Emerald' },
-        { id: 'Gül', color: 'rose', label: 'Rose' },
-        { id: 'Kehriba', color: 'amber', label: 'Amber' },
+        { id: 'Vuupeeland', color: 'violet', label: 'Vuupeeland' },
+        { id: 'Gökyüzü', color: 'blue', label: 'Gökyüzü' },
+        { id: 'Zümrüt', color: 'emerald', label: 'Zümrüt' },
+        { id: 'Gül', color: 'rose', label: 'Gül' },
+        { id: 'Kehriba', color: 'amber', label: 'Kehribar' },
     ];
    
     const ChangeColor = id => {
@@ -166,7 +166,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="davet link">
+                        <Link href="https://discord.com/api/oauth2/authorize?client_id=1159945593620275280&permissions=8&scope=bot">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Davet Et
                             </a>
