@@ -14,7 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Botu kullanırken trol amaçlı diğer kullanıcılara zarar verecek şekilde kullanamazsınız..</p>
 <div className="py-3"></div>
-<p>⊳ Bot komutlarından belirli komutları kullanırken <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">Vuupeeland</a> botuna oy vermeniz gerekir.</p>
+<p>⊳ Bot komutlarından belirli komutları kullanırken <a className="text-white" href="https://discord.com/api/oauth2/authorize?client_id=1159945593620275280&permissions=8&scope=bot">Vuupeeland</a> botuna oy vermeniz gerekir.</p>
 </div>
     </div>
   );
