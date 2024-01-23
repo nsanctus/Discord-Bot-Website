@@ -37,10 +37,10 @@ export default function Partners() {
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1147890782494281830/1199120086544416859/Vuupee_Yuvarlak.png?ex=65c1629b&is=65aeed9b&hm=7ff094a4393681f87229afd16fb802539a0eb2f58d52d74e8b0d36bc2b9fd08d&" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">YAKINDA</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Developer - Geliştirici</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   YAKINDA.
+                                   NsSanctus - Talha Kaya
                                     </p>
                                 </div>     
                             </div>
