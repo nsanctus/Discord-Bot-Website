@@ -7,7 +7,7 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ Vuupeeland botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekir.. <a className="text-white">(Yönetici, Kullanıcıları Yönet, Rolleri Yönet Kanalları Yönet, Kategorileri Yönet,)</a></p>
         <div className="py-3"></div>
-        <p>⊳ Bot komutlarından belirli komutları kullanırken <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">Vuupeeland</a> botuna oy vermeniz gerekir.</p>
+        <p>⊳ Bot komutlarından belirli komutları kullanırken <a className="text-white" href="https://discord.com/api/oauth2/authorize?client_id=1159945593620275280&permissions=8&scope=bot">Vuupeeland</a> botuna oy vermeniz gerekir.</p>
         <div className="py-3"></div>
         <p>⊳ Zarar verme niyetinde olmadığı sürece her kullanıcı Vuupeeland botunu dilediği gibi kullanabilir..</p>
         <div className="py-3"></div>
