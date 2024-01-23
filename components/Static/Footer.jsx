@@ -18,7 +18,7 @@ export default function Footer() {
                                 <div>
                                     <Menu.Button className="flex z-1 items-center w-full px-4 py-2 text-sm font-medium text-white bg-black rounded-md bg-opacity-20 hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                                         <img
-                                            src={`https://flagcdn.com/w80/gb.png`}
+                                            src={`https://cdn.discordapp.com/attachments/1179720085141729290/1199370030337507343/baryak.jpg?ex=65c24b62&is=65afd662&hm=83eef9067dd8524b9d63e90b31f5df9014deed93eef528deedda1620916c1252&`}
                                             width="24"
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
@@ -36,9 +36,9 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Linkler</p>
                             <div>
-                                <Link href="https://top.gg/bot/774043716797071371/vote">
+                                <Link href="https://discord.com/api/oauth2/authorize?client_id=1159945593620275280&permissions=8&scope=bot">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Botu Oyla
+                                        Botu Oyla YAKINDA
                                     </a>
                                 </Link>
                             </div>
@@ -48,7 +48,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/api/oauth2/authorize?client_id=1159945593620275280&permissions=8&scope=bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Bot Davet Et
                                 </a>
                             </div>
@@ -101,7 +101,7 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Vuupeeland Yakında
+                                    Vuupeeland Aktif
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
