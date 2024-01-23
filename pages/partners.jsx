@@ -67,6 +67,24 @@ export default function Partners() {
                     </a>
                     </div>
 
+
+                            <div className="flex flex-col justify-center text-white rounded">
+            <a href="https://www.twitch.tv/saffetunazz">
+                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1199041119204409394/1199405681430777966/pp.gif?ex=65c26c96&is=65aff796&hm=91ce63c9d64c0cd912f773783615080714cc3e7ad7ee917853f3f9e4ecf307a8&" />
+                            <div>
+                                <h1 className="leading-none text-3xl font-bold text-white">Yönetim</h1>        
+                                <div className="flex items-center mt-1">
+                                    <p className="font-normal font-sm">
+                                     SaffetUnazz - Saffet
+                                        Twicth Profili İçin Üzerime Tıklayabilirsin :)
+                                    </p>
+                                </div>     
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+
                 </div>
                 <div className="py-10"></div>
         </>
