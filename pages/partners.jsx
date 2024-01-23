@@ -9,7 +9,7 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    Partnerlerimiz
+                    Ekip Üyelerimiz
                 </h1>
             </div>
 
@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Founder</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                     Vuupee - Cihan .
+                                     Vuupee - Cihan
                                     </p>
                                 </div>     
                             </div>
