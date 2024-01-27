@@ -24,6 +24,8 @@ export default function Partners() {
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                      Vuupee - Cihan
+
+                                        Twicth Profili İçin Üzerime Tıklayabilirsin :)
                                     </p>
                                 </div>     
                             </div>
@@ -41,6 +43,7 @@ export default function Partners() {
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                    Ns'Sanctus - Talha Kaya
+                                        
                                         İnstagram Profili İçin Üzerime Tıklayabilirsin :)
                                     </p>
                                 </div>     
@@ -59,6 +62,7 @@ export default function Partners() {
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                      RedhookGaming - Oğulcan
+                                        
                                         Twicth Profili İçin Üzerime Tıklayabilirsin :)
                                     </p>
                                 </div>     
@@ -77,6 +81,26 @@ export default function Partners() {
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
                                      SaffetUnazz - Saffet
+                                        
+                                        Twicth Profili İçin Üzerime Tıklayabilirsin :)
+                                    </p>
+                                </div>     
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+
+
+                                            <div className="flex flex-col justify-center text-white rounded">
+            <a href="https://www.twitch.tv/sedoffmine">
+                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1198414075495981176/1200894890838597743/sedoff.png?ex=65c7d785&is=65b56285&hm=1d10e99ef466ff10f2f9ebfb05ee835059f39bf6f8c26d86e601363ffdb97393&" />
+                            <div>
+                                <h1 className="leading-none text-3xl font-bold text-white">Menajer</h1>        
+                                <div className="flex items-center mt-1">
+                                    <p className="font-normal font-sm">
+                                     Seddofmine - Bedirhan
+                                        
                                         Twicth Profili İçin Üzerime Tıklayabilirsin :)
                                     </p>
                                 </div>     
